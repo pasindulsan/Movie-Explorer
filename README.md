@@ -1,5 +1,6 @@
 **🎬 Movie Explorer App**
-A sleek and responsive Movie Explorer built with React and The Movie Database (TMDb) API. Search for movies, explore trending titles, and manage your personal list of favorites with dark/light mode support.
+A sleek and responsive Movie Explorer built with React and The Movie Database (TMDb) API. 
+Search for movies, explore trending titles, and manage your personal list of favorites with dark/light mode support.
 
 **🔥 Features**
 🔍 Movie Search: Search movies using keywords via the TMDb API
